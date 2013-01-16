@@ -41,14 +41,14 @@
 		<p><strong>2.</strong>If you are using Ubuntu or Fedora, or any distro with package management, get the octave package (Ubuntu users simply need to go to System->Administration->Synaptic Package Manager, and if it is already set up properly, install octave from the thousands of available packages.
 		</p>
 		<br /><br />
-<a href="./gnu_octave/install.jpg" target="_blank"><img src="./gnu_octave/install_a.jpg" /></a><br />Installing GNU Octave</p>
+<a href="/images/gnu_octave/install.jpg" target="_blank"><img src="/images/gnu_octave/install_a.jpg" /></a><br />Installing GNU Octave</p>
 		<br />
 		<p><strong>3.</strong>Alternatively you can download and install GNU Octave from terminal using apt-get or yum.<br />
 		Ubuntu users should run <b>'sudo apt-get install octave'</b> in terminal and Fedora users should run <b>'sudo yum install octave'</b> in terminal to install GNU Octave.	
 		</p><br />
 		<p><strong>4.</strong>Once you have done that, run GNU Octave from terminal by entering the command 'octave'. Now Octave console will appear in front of you. This is where you will write commands. Some of the linux commands also work here(e.g. who,pwd,cd,ls etc.)<br />
 	`	<br /><br />
-<a href="./gnu_octave/start.jpg" target="_blank"><img src="./gnu_octave/start_a.jpg" /></a><br />GNU Octave Console</p>
+<a href="/images/gnu_octave/start.jpg" target="_blank"><img src="/images/gnu_octave/start_a.jpg" /></a><br />GNU Octave Console</p>
 		<br />
 		<p><strong>5.</strong>Now i will show you how to load an image, display it and perform some basic operations on this image. Every variable is a matrix in Octave.</p>
 		Now we will load an image into a variable 'img'(RGB image is a 3-d array) using the command.
@@ -66,7 +66,7 @@
 		<br /><br />
 		<b>imshow(img),figure,imshow(mirror_img)</b>
 <br /><br />
-<a href="./gnu_octave/show.jpg" target="_blank"><img src="./gnu_octave/show_a.jpg" /></a><br />Original Image and Mirror Image</p>
+<a href="/images/gnu_octave/show.jpg" target="_blank"><img src="/images/gnu_octave/show_a.jpg" /></a><br />Original Image and Mirror Image</p>
 		<br />
 		<br /><br />
 		<p>You can read more about GNU Octave commands <a href="http://www.gnu.org/software/octave/doc/interpreter/" >here</a>.</p>

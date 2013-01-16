@@ -22,7 +22,7 @@
     <div id="main_info_center">
 		<div id="main_info_center_in">
 
-  <div class="content_style2">
+<!--  <div class="content_style2">
 				<div class="content_style2_heading">
 					<h3>New Tutorials</h3>
 				</div>
@@ -33,7 +33,7 @@
 				</div>
 			</div>
 		<br />
-
+-->
 			<div class="content_style2">
 				<div class="content_style2_heading">
 					<h3>The Linux Documentation Project</h3>

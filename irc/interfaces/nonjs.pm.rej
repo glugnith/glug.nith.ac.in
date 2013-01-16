@@ -1,0 +1,41 @@
+***************
+*** 198,207 ****
+  
+  sub fuserlist {
+     my($self, $cgi, $config) = @_;
+  print <<EOF;
+  $standardheader
+  <html><head>
+- <noscript><meta http-equiv="Refresh" content="15;URL=$config->{script_form}?R=$cgi->{
+  </head><body bgcolor="#ffffff" text="#000000">
+  Loading..
+  </body></html>
+--- 198,208 ----
+  
+  sub fuserlist {
+     my($self, $cgi, $config) = @_;
++    my $r = _escape($cgi->{R});
+  print <<EOF;
+  $standardheader
+  <html><head>
++ <noscript><meta http-equiv="Refresh" content="15;URL=$config->{script_form}?R=$r&item
+  </head><body bgcolor="#ffffff" text="#000000">
+  Loading..
+  </body></html>
+***************
+*** 257,262 ****
+  
+  sub _form_out {
+     my($rand, $script, $target, $targets) = @_;
+  my $out = <<EOF;
+  <html>
+  <head>
+--- 258,265 ----
+  
+  sub _form_out {
+     my($rand, $script, $target, $targets) = @_;
++    $rand = _escape($rand);
++ 
+  my $out = <<EOF;
+  <html>
+  <head>

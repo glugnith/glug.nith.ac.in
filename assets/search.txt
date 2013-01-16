@@ -1,0 +1,59 @@
+<?php
+/*
+	Copyright GLUG-NITH
+	& Abhishek Rana
+*/
+
+$keyword = "";
+$keyword = $_POST['glug_search'];
+
+function content_search($keyword_in){
+	// files to be searched
+	$filename = array("archives.php",
+				  "downloads.php",
+				  "faq.php",
+				  "index.php",
+				  "links.php",
+				  "mailing_lists.php",
+				  "media.php",
+				  "tutorials.php",
+				  "wiki.php",
+				  "tutorials/apache.php",
+				  "tutorials/pro_ftpd.php",
+				  "tutorials/vs_ftpd.php"
+				  );
+
+	$i=0;
+	while(isset($filename[$i])){
+		$fp = fopen($filename[$i], "r") or die("File could not be opened!"); 
+
+		while (!feof($fp)){
+			$line = fgets($fp);
+			
+			if (preg_match('/'.$keyword_in.'/',$line)){ 				// Print the line if it contains the $keyword_in word
+				//$line_substr = substr($line,0,25);
+				//if(preg_match('/[<a href="]*$keyword_in*[</a>]/',$line)){
+				/*if(preg_match("'href=\"?(.[^\"\>]*)\"?(.[^\>]*)>(.[^\<]*)</a>'im",$line)){ 	//<a\s+href=(?:"([^"]+)"|'([^']+)').*?>(.*?)</a>
+
+					echo "ffffffffff";
+				}*/
+				//if(preg_match('/<a (href=[\"\'](http:\/\/|\.\/|\/)?\w+(\.\w+)*(\/\w+(\.\w+)?)*(\/|\?\w*=\w*(&\w*=\w*)*)?[\"\'])*(>[a-zA-Z0-9 ="<>.:;?]*</a>/',$line)){
+					//echo"dddddddddddd";
+				//}
+				//else{
+					print"$line<br />";
+					print"<div id='search_link'>";
+					print"<a href='./$filename[$i]'>".DOMAIN_NAME."$filename[$i]</a>";
+					print"</div>";
+					print"<div class='line1'></div><br />"; 
+				//}
+			}
+		}
+		fclose($fp);
+		
+		$i++;
+	}
+
+}
+
+

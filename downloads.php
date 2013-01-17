@@ -47,7 +47,7 @@
 						<h2>apt-get from glug-nith ubuntu archive mirror</h2>
 						<div class="line1"></div>
 						<p><b>GLUG-NITH</b> now hosts the ubuntu archive mirror. It means you can install packages for ubuntu using <b>apt-get</b> or <b>synaptic</b> from ubuntu mirror at glug-nith server anytime.</p>
-						<p>To add glug-nith to your <b>source.list</b> file edit <b>/etc/apt/source.list</b> file, comment everything and add two lines at the end of the file.
+						<p>To add glug-nith to your <b>sources.list</b> file edit <b>/etc/apt/sources.list</b> file, comment everything and add two lines at the end of the file.
 						<br />
 						<b>deb http://glug.nith.ac.in/ubuntu/archives/ (your ubuntu release code name) main restricted universe multiverse</b>
 						<br />

@@ -124,25 +124,12 @@
                  <a href="http://www.linuxforu.com/2012/03/rms-interview-richard-stallman-freedom-android-amazon-facebook-steve-jobs/" target="_blank">Click here</a> to read the full interview of Richard Stallman.
                 </p><br />
                 <p>
-				<strong><a href=http://www.pcworld.com/businesscenter/article/246866/10_reasons_to_switch_to_linux_in_2012.html" target="_blank"> 10 Reasons to Switch to Linux in 2012</a></strong>
-                <br />
-                If you still have not tried linux based operating system yet. Read <a href=http://www.pcworld.com/businesscenter/article/246866/10_reasons_to_switch_to_linux_in_2012.html" target="_blank">this</a> article to know why you should use a linux based operating system.
-                </p>
-                <br />
-                <p>
                 <strong><a href="http://linuxhelp.blogspot.com/2011/11/top-5-linux-distributions.html" target = "_blank">Top 5 Linux Distributions</a></strong>
                 <br />
 			    As a Linux user, I am sure, you will be interested to know which is the most popular Linux distribution. <br />
 	    		Click <a href="http://linuxhelp.blogspot.com/2011/11/top-5-linux-distributions.html" target = "_blank">here</a> to check out who is winning the battle nowadays.
                 </p>
                 <br />
-                <p>
-                <strong><a href="http://www.linuxjournal.com/slideshow/readers-choice-2011?page=27" target="_blank">Best Progrogramming Language 2011: Python?</a></strong>
-                <br />
-                Yes, it is Python this year also. According to Readers' Choice Awards 2011 conducted by Linux Journal, Python continues to dominate the programming world. Python was ranked first in both programming language and scripting language category. The second in programming language category was C++ and in scripting language category it was bash.
-                <br />
-                You can read more <a href="http://www.linuxjournal.com/slideshow/readers-choice-2011?page=27" target="_blank">here</a>.
-                </p>
 
 
 

@@ -65,26 +65,32 @@
 						
 						<h4>Fedora</h4>
 						<p>The latest iso images of Fedora are available. Click to start download.</p>
-						<p><a href="ftp://glug.nith.ac.in/fedora/releases/17/Live/i686/Fedora-17-i686-Live-Desktop.iso">Fedora 17 GNOME x86 Desktop </a></p>
-						<p><a href="ftp://glug.nith.ac.in/fedora/releases/17/Live/x86_64/Fedora-17-x86_64-Live-Desktop.iso">Fedora 17 GNOME 64-bit Desktop </a></p>
-						<p><a href="ftp://glug.nith.ac.in/fedora/releases/17/Live/i686/Fedora-17-i686-Live-KDE.iso">Fedora 17 KDE x86 Desktop </a></p>
-						<p><a href="ftp://glug.nith.ac.in/fedora/releases/17/Live/x86_64/Fedora-17-x86_64-Live-KDE.iso">Fedora 17 KDE 64-bit Desktop </a></p><br />
+						<p><a href="ftp://glug.nith.ac.in/downloads/Fedora-18-i686-Live-Desktop.iso">Fedora 18 GNOME x86 Desktop </a></p>
+						<p><a href="ftp://glug.nith.ac.in/downloads/Fedora-18-x86_64-Live-Desktop.iso">Fedora 18 GNOME 64-bit Desktop </a></p>
+						<p><a href="ftp://glug.nith.ac.in/downloads/Fedora-18-i686-Live-KDE.iso">Fedora 18 KDE x86 Desktop </a></p>
+						<p><a href="ftp://glug.nith.ac.in/downloads/Fedora-18-x86_64-Live-KDE.iso">Fedora 18 KDE 64-bit Desktop </a></p><br />
 
 			                        <h4>Linux Mint</h4>
 						<p>The latest iso images of Linux Mint are available. Click to start download.</p>
-						<p><a href="ftp://glug.nith.ac.in/linuxmint/linuxmint-12-gnome-cd-nocodecs-32bit.iso">Linux Mint 12 GNOME NOCODECS(32-bit) </a></p>
+                        <p><a href="ftp://glug.nith.ac.in/linuxmint/linuxmint-14.1-cinnamon-dvd-32bit.iso">Linux Mint 14 CINNAMON DVD(32-bit)</a></p>
+                        <p><a href="ftp://glug.nith.ac.in/linuxmint/linuxmint-14.1-cinnamon-dvd-64bit.iso">Linux Mint 14 CINNAMON DVD(64-bit)</a></p>
+						<p><a href="ftp://glug.nith.ac.in/linuxmint/linuxmint-14.1-mate-dvd-32bit.iso">Linux Mint 14 MATE DVD(32-bit)</a></p>
+                        <p><a href="ftp://glug.nith.ac.in/linuxmint/linuxmint-14.1-mate-dvd-64bit.iso">Linux Mint 14 MATE DVD(64-bit)</a></p>
+                        <p><a href="ftp://glug.nith.ac.in/linuxmint/linuxmint-14-kde-dvd-32bit.iso">Linux Mint 14 KDE DVD(32-bit)</a></p>
+                        <p><a href="ftp://glug.nith.ac.in/linuxmint/linuxmint-14-kde-dvd-64bit.iso">Linux Mint 14 KDE DVD(64-bit)</a></p>
+                       <!-- <p><a href="ftp://glug.nith.ac.in/linuxmint/linuxmint-12-gnome-cd-nocodecs-32bit.iso">Linux Mint 12 GNOME NOCODECS(32-bit) </a></p>
 						<p><a href="ftp://glug.nith.ac.in/linuxmint/linuxmint-12-gnome-cd-nocodecs-64bit.iso">Linux Mint 12 GNOME NOCODECS(64-bit) </a></p>
 						<p><a href="ftp://glug.nith.ac.in/linuxmint/linuxmint-12-gnome-dvd-32bit.iso">Linux Mint 12 GNOME DVD(32-bit) </a></p>
-						<p><a href="ftp://glug.nith.ac.in/linuxmint/linuxmint-12-gnome-dvd-64bit.iso">Linux Mint 12 GNOME DVD(64-bit) </a></p>
+						<p><a href="ftp://glug.nith.ac.in/linuxmint/linuxmint-12-gnome-dvd-64bit.iso">Linux Mint 12 GNOME DVD(64-bit) </a></p>  -->
 						<div class="line1"></div>
 						
 						<h4>How to create Live-USB on Windows</h4>
 						<p>You can download UNetbootin.exe from <a href="ftp://glug.nith.ac.in/unetbootin-windows-563.exe">here</a> and create the startup disk by selecting the iso of you favourite distribution.</p>
-						<p>To download <b>putty.exe</b> <a href="http://glug.nith.ac.in/putty/">click here</a>.</p><br/><br/>
-                                               <h4>Download Wine 1.4 and Wine Tricks</h4>
+						<p>To download <b>putty.exe</b> <a href="http://glug.nith.ac.in/putty/">click here</a>.</p>
+                                            <!--   <h4>Download Wine 1.4 and Wine Tricks</h4>
                                                <p>You can download wine 1.4 debian package X86_64from <a href ="./tutorials/wine.deb">here</a></p>
                                                <p>You can download wine 1.4 debian package X86 from <a href ="./tutorials/wine1.4_i386.deb">here</a></p>
-                                               <p>You can download wine tricks from <a href="./tutorials/winetricks.tar.gz">here</a></p>
+                                               <p>You can download wine tricks from <a href="./tutorials/winetricks.tar.gz">here</a></p>  -->
 					</p>
 				</div>
 			</div>

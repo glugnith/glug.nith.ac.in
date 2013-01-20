@@ -42,21 +42,34 @@
 					<h3>Downloads</h3>
 				</div>
 				<div class="content_style2_info">
-					<p>You can use GLUG NITH ftp server to download latest iso's. You can visit GLUG NITH ftp server here(<a href="ftp://glug.nith.ac.in" target="_blank"> ftp://glug.nith.ac.in</a>).
+					<p>You can use GLUG NITH ftp server to download latest iso's. You can visit GLUG NITH ftp server <a href="ftp://glug.nith.ac.in" target="_blank"><b>HERE</b></a>
 						<br /><br />
-						<h2>apt-get from glug-nith ubuntu archive mirror</h2>
+						<h2>apt-get from GLUG-NITH Ubuntu archive mirror</h2>
 						<div class="line1"></div>
 						<p><b>GLUG-NITH</b> now hosts the ubuntu archive mirror. It means you can install packages for ubuntu using <b>apt-get</b> or <b>synaptic</b> from ubuntu mirror at glug-nith server anytime.</p>
-						<p>To add glug-nith to your <b>sources.list</b> file edit <b>/etc/apt/sources.list</b> file, comment everything and add two lines at the end of the file.
+						<p>To add glug-nith to your <b>sources.list</b> file edit <b>/etc/apt/sources.list</b> file, comment everything and following two lines in the file after uncommenting all the stuff there.
 						<br />
-						<b>deb http://glug.nith.ac.in/ubuntu/archives/ (your ubuntu release code name) main restricted universe multiverse</b>
+                           <br/>
+						<b>deb http://glug.nith.ac.in/ubuntu/archives/ [your ubuntu release code name] main restricted universe multiverse</b>
 						<br />
-						<b>deb-src http://glug.nith.ac.in/ubuntu/archives/ (your ubuntu release code name) main restricted universe multiverse</b>
+						<b>deb-src http://glug.nith.ac.in/ubuntu/archives/ [your ubuntu release code name] main restricted universe multiverse</b>
 						<br />
-						code name is an unique name for every release of ubuntu. e.g  natty for 11.04 etc.
+                        <br />
+						CodeName is an unique name for every release of ubuntu. e.g  natty for 11.04, quantal for 12.10 etc.
 						<br />
-						After editing the <b>sources.list</b> run <b>sudo apt-get update</b> command in terminal and now you can use <b>apt-get install</b> anytime. :-)
+                        <b>Eg:</b> 
+                        <br/>
+                        For Ubuntu 12.10 installation, the codename is <b>quantal</b>, so you can add following two lines to download archives/updates from glug server. <br/>
+                       <br/>
+                       <b>deb http://glug.nith.ac.in/ubuntu/archives/ <b>quantal</b> main restricted universe multiverse</b>
+                       <br />
+                       <b>deb-src http://glug.nith.ac.in/ubuntu/archives/ <b>quantal</b> main restricted universe multiverse</b>
+                        <br />
+                         <br/>
+
+						After editing the <b>sources.list</b> run <b>sudo apt-get update</b> command in terminal and now you can use <b>sudo apt-get install [some software here, eg: vim]</b> anytime. 
 						</p>
+                        <p>Doing so have some advantage of higher speed downloading the softwares during non Internet hours when the proxy server is not busy. Proxy server allows connection to glug.nith.ac.in 24 hours round the clock</p>
 						<br /><br />
 						<h2>ISO Images</h2>
 						<div class="line1"></div>
@@ -86,7 +99,6 @@
 						
 						<h4>How to create Live-USB on Windows</h4>
 						<p>You can download UNetbootin.exe from <a href="ftp://glug.nith.ac.in/unetbootin-windows-563.exe">here</a> and create the startup disk by selecting the iso of you favourite distribution.</p>
-						<p>To download <b>putty.exe</b> <a href="http://glug.nith.ac.in/putty/">click here</a>.</p>
                                             <!--   <h4>Download Wine 1.4 and Wine Tricks</h4>
                                                <p>You can download wine 1.4 debian package X86_64from <a href ="./tutorials/wine.deb">here</a></p>
                                                <p>You can download wine 1.4 debian package X86 from <a href ="./tutorials/wine1.4_i386.deb">here</a></p>

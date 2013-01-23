@@ -153,7 +153,7 @@
 						<h3>Notice</h3>
 					</div>
 					<div class="content_style1_info">
-						GLUG-NITH Mirror servers are experiencing some technical problems and you can face difficulty in downloading ISO's and updates from the server for next few days. <br/><br/>Regret for the inconvenience caused.
+						GLUG-NITH Mirror servers are experiencing some technical problems and you can face difficulty in downloading ISO's and updates from the server for next few days. <br/><br/>Inconvenience  caused is regretted.
 
                         
                         </div>  

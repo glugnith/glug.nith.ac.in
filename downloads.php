@@ -70,7 +70,10 @@
 						After editing the <b>sources.list</b> run <b>sudo apt-get update</b> command in terminal and now you can use <b>sudo apt-get install [some software here, eg: vim]</b> anytime. 
 						</p>
                         <p>Doing so have some advantage of higher speed downloading the softwares during non Internet hours when the proxy server is not busy. Proxy server allows connection to glug.nith.ac.in 24 hours round the clock</p>
-						<br /><br />
+						<br />
+                        You can download the script <a href="/downloads/glug-mirror.sh">here</a>. Run this script and it will automatically adjust your <b>Ubuntu</b> installation to download and update via glug servers. 
+                        <br/>
+                        <br />
 						<h2>ISO Images</h2>
 						<div class="line1"></div>
 						<h4>Ubuntu</h4>

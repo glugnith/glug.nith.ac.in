@@ -145,11 +145,39 @@
 			<?php 
 				include_once "includes/main_info_right.php";
 			?>
+<br/>
+
+		<div class="content_style1_cont">
+				<div class="content_style1">
+					<div class="content_style1_heading">
+						<h3>Notice</h3>
+					</div>
+					<div class="content_style1_info">
+						GLUG-NITH Mirror servers are experiencing some technical problems and you can face difficulty in downloading ISO's and updates from the server for next few days. <br/><br/>Regret for the inconvenience caused.
+
+                        
+                        </div>  
+				</div>
+			</div>  
+
+
+
+
 		</div>
 	</div>
 	
 	<div class="float_clear">
+
+
+
+
+
+
 	</div>
+
+
+
+
 		
 </div>
 

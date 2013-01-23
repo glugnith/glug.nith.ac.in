@@ -45,7 +45,9 @@
 				</div>
 				<div class="content_style2_info">
                 <p><a href="http://glug.nith.ac.in/~wiki/">1. GluCki-beta (GLUG-NITH Wiki)</p><br />
-				<p><a href="/projects/akash/executables/webplayer.html" target="_blank">2. Space Shooter Game</a></p>
+				<p><a href="/projects/akash/executables/webplayer.html" target="_blank">2. Space Shooter Game</a> [<a href="/projects/akash/space_shooter.zip">Source</a>]</p><br/>
+				<p><a href="/projects/pacman/pacman.jar" target="_blank">2. Pacman Game</a> [<a href="/projects/pacman/pacman.tar.tgz">Source</a>]</p><br/>
+
 			</div>
 			</div>
 			<br />

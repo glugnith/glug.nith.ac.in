@@ -147,7 +147,7 @@
 			?>
 <br/>
 
-		<div class="content_style1_cont">
+<!--		<div class="content_style1_cont">
 				<div class="content_style1">
 					<div class="content_style1_heading">
 						<h3>Notice</h3>
@@ -162,7 +162,7 @@
 
 
 
-
+-->
 		</div>
 	</div>
 	

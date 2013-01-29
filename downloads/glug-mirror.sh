@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DOMAIN='172.16.30.30'
+DOMAIN='glug.nith.ac.in'
 # Set this DOMAIN variable to either
 # `glug.nith.ac.in` if you cannot directly ping 172.16.30.30
 # or `172.16.30.30` if you can ping 172.16.30.30 directly.

@@ -76,7 +76,10 @@
 <h3>Automatic Installation</h3>
                         You can download the script <a href="/downloads/glug-mirror.sh">here</a>. Run this script and it will automatically adjust your <b>Ubuntu</b> installation to download and update via glug servers. Basically what it does is same as described above in manual installation.  
                         <br/>
+                            <br/>
+                         Most common mistake here is that you get a message 'Permission Denied'. This is because the script you downloaded is not executable. To set the executable bit here, enter this command : chmod +x glug-mirror.sh . After it execute the script again. You should have now this issue resolved.
                         <br />
+                         <br/>
 						<h2>ISO Images</h2>
 						<div class="line1"></div>
 						<h4>Ubuntu</h4>

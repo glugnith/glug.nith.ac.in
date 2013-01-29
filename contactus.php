@@ -54,11 +54,11 @@
                  //     $subject 	  = NULL;
                   //    $message    = NULL;
                       $email_from = $_POST['email_from'] ;
-                      $email_to = "mailglug@gmail.com" ;
+                      $email_to = "glug-nith@glug.nith.ac.in" ;
                       $subject = $_POST['subject'] ;
                       $message = $_POST['message'] ;
                       $message = wordwrap($message, 70);
-                      mail($email_to, $subject,$message, "From:" . $email_from);
+                      mail($email_to, $subject,$message . "\nFrom : " . $email_from, "From:" . "root@glug.nith.ac.in");
                       echo "Thank you for your feedback...";
                       }
                     else

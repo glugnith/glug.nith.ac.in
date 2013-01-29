@@ -47,6 +47,8 @@
 						<h2>apt-get from GLUG-NITH Ubuntu archive mirror</h2>
 						<div class="line1"></div>
 						<p><b>GLUG-NITH</b> now hosts the ubuntu archive mirror. It means you can install packages for ubuntu using <b>apt-get</b> or <b>synaptic</b> from ubuntu mirror at glug-nith server anytime.</p>
+                        <br/>
+                         <h3>Manual Installation</h3>
 						<p>To add glug-nith to your <b>sources.list</b> file edit <b>/etc/apt/sources.list</b> file, comment everything and following two lines in the file after uncommenting all the stuff there.
 						<br />
                            <br/>
@@ -71,7 +73,8 @@
 						</p>
                         <p>Doing so have some advantage of higher speed downloading the softwares during non Internet hours when the proxy server is not busy. Proxy server allows connection to glug.nith.ac.in 24 hours round the clock</p>
 						<br />
-                        You can download the script <a href="/downloads/glug-mirror.sh">here</a>. Run this script and it will automatically adjust your <b>Ubuntu</b> installation to download and update via glug servers. 
+<h3>Automatic Installation</h3>
+                        You can download the script <a href="/downloads/glug-mirror.sh">here</a>. Run this script and it will automatically adjust your <b>Ubuntu</b> installation to download and update via glug servers. Basically what it does is same as described above in manual installation.  
                         <br/>
                         <br />
 						<h2>ISO Images</h2>

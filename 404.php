@@ -47,7 +47,7 @@
 					<p>The page you requested can not be found on the server.<br />
 						<a href="http://glug.nith.ac.in">Return Home.</a><br />
 				                <a href="javascript: history.go(-1)">Return Back</a><br />
-						Happy Hacking  ;-)
+						Happy Hacking  :)
 		
                     </p>
 				</div>

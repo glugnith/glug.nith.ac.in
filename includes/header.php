@@ -65,7 +65,7 @@
 			</div>
 			<div id="navbar">
 				<ul>
-				<a href="/index.php"><div class="navbar_background_hover"><li>Home</li></div></a>|<a href="./tutorials.php"><div class="navbar_background_hover"><li>Tutorials</li></div></a>|<a href="./links.php"><div class="navbar_background_hover"><li>Links</li></div></a>|<a href="/wiki.php"><div class="navbar_background_hover"><li>Wiki</li></div></a>|<a href="/downloads.php"><div class="navbar_background_hover"><li>Downloads</li></div></a>|<a href="/projects.php"><div class="navbar_background_hover"><li>Projects</li></div></a>|<a href="/gallery.php"><div class="navbar_background_hover"><li>Gallery</li></div></a>|<a href="/faq.php"><div class="navbar_background_hover"><li>FAQ</li></div></a>|<a href="/contactus.php"><div class="navbar_background_hover"><li>Contact Us</li></div></a>|<a href="http://www.nith.ac.in/"><div class="navbar_background_hover"><li>NITH</li></div></a>
+				<a href="/index.php"><div class="navbar_background_hover"><li>Home</li></div></a>|<a href="./tutorials.php"><div class="navbar_background_hover"><li>Tutorials</li></div></a>|<a href="/wiki.php"><div class="navbar_background_hover"><li>Wiki</li></div></a>|<a href="/downloads.php"><div class="navbar_background_hover"><li>Downloads</li></div></a>|<a href="/projects.php"><div class="navbar_background_hover"><li>Projects</li></div></a>|<a href="/faq.php"><div class="navbar_background_hover"><li>FAQ</li></div></a>|<a href="/contactus.php"><div class="navbar_background_hover"><li>Contact Us</li></div></a>|<a href="http://www.nith.ac.in/"><div class="navbar_background_hover"><li>NITH</li></div></a>
 				</ul>
 			</div>
 			<div class="float_clear">

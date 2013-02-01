@@ -52,24 +52,20 @@
             <!--End of About -->
             <br />
 
-	     <!-- How to use IRC webchat interface -->
+<!--Git contribution article-->
              <div class="content_style2">
 				<div class="content_style2_heading">
-					<h3>IRC How to?</h3>
+					<h3>Contributing to website</h3>
 				</div>
 				<div class="content_style2_info">
                 <p>
-			<b>IRC (Internet Relay Chat)</b> is an Internet protocol for group communication.
+			<b><a href=http://github.com>Git</a></b> is a famous tool to organise and colloborate among various code contributors.
 			<br />
-			<a href="http://en.wikipedia.org/wiki/Internet_Relay_Chat" target="_blank">&#187;&#187;Read about IRC on Wikipedia</a>
-			<br />
- Each group(chat room) in IRC is identified by a channel name. You can join an IRC channel by entering your nick (like an username) and channel name(like #glugnith). Channel names always start with a # or ##. e.g. #glugnith, #fedora, #ubuntu, #c++ etc. 
-			<br />
-			<b>#glugnith</b> is the official IRC channel of GLUG NITH. You can join this channel and be the part of the discussion. You can also ask any GNU/Linux related problems here. We almost always hang out here, so this is the fastest way to reach us.
-			<br />
-			Since IRC is blocked by our college proxy, so you cannot use an IM client like Pidgin to connect to an IRC server from NITH. But you can use freenode's webchat interface to connect to IRC.
-			<br />
-			<a href="http://glug.nith.ac.in/irc.php" target="_blank">&#187;&#187;Click here</a> to use the IRC webchat interface. 
+			By using this famous tool, you can make contribution to this website which will directly reflect here. Further this provides a powerful collaboration, review and code management for such a purpose and other development projects.
+            <br />
+			This greatly help people sitting at different places working on their systems to build and discuss various changes that should or need to be included on the website.
+            <br />
+			<a href="http://glug.nith.ac.in/contribute.php" target="_blank">&#187;&#187;Read More about contributing here</a>
 		</p>
 				</div>
 		</div>	

@@ -110,6 +110,25 @@
 						Now webchat gateway interface is available through glug.nith.ac.in. This means you can use IRC webchat 24 hrs. Just select a nick and start discussing. The glug nith irc channel is #glugnith. Other popular channels are #fedora, #ubuntu, #c++ etc.
 						<br />
 						Visit IRC webchat interface <a href="/irc.php" target="_blank">here</a>.
+<br/><br/>
+    <!-- How to use IRC webchat interface -->
+                            <h3>IRC How to?</h3>
+                           <p>
+                       <b>IRC (Internet Relay Chat)</b> is an Internet protocol for group communication.
+                         <br />
+                          <a href="http://en.wikipedia.org/wiki/Internet_Relay_Chat" target="_blank">&#187;&#187;Read about IRC on Wikipedia</a>
+                           <br />
+                 Each group(chat room) in IRC is identified by a channel name. You can join an IRC channel by entering your nick (like an username) and channel na    me(like #glugnith). Channel names always start with a # or ##. e.g. #glugnith, #fedora, #ubuntu, #c++ etc.
+                             <br />
+                              <b>#glugnith</b> is the official IRC channel of GLUG NITH. You can join this channel and be the part of the discussion. You can also a    sk any GNU/Linux related problems here. We almost always hang out here, so this is the fastest way to reach us.
+                               <br />
+                                Since IRC is blocked by our college proxy, so you cannot use an IM client like Pidgin to connect to an IRC server from NITH. But you c    an use freenode's webchat interface to connect to IRC.
+                                 <br />
+                                  <a href="http://glug.nith.ac.in/irc.php" target="_blank">&#187;&#187;Click here</a> to use the IRC webchat interface.
+                               </p>
+                           
+
+
 					</p>
 				</div>
 			</div>

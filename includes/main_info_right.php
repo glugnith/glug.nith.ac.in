@@ -18,7 +18,7 @@
 			
 			<div id="glug_updates_all">
 				<ul>
-					<li>GLUG NITH currently hosts the official mirror servers of <a href="http://glug.nith.ac.in/ubuntu/">ubuntu</a><!-- <a href="ftp://glug.nith.ac.in/fedora/">fedora</a>, <a href="http://glug.nith.ac.in/archlinux/">archlinux</a> and--> and <a href=http://glug.nith.ac.in/gnu>gnu</a>. We also host mirror website of <a href="http://glug.nith.ac.in/LDP">Linux Documentation Project(LDP)</a>.</li>
+					<li>GLUG NITH currently hosts the official mirror servers of <a href="/ubuntu/">ubuntu</a><!-- <a href="ftp://glug.nith.ac.in/fedora/">fedora</a>, <a href="http://glug.nith.ac.in/archlinux/">archlinux</a> and--> and <a href=/gnu>gnu</a>. We also host mirror website of <a href="/LDP">Linux Documentation Project(LDP)</a>.</li>
 					<li>Currently we are the only GNU and ubuntu cd mirror servers from India. Check the mirror list of gnu <a href="http://www.gnu.org/prep/ftp.html">here</a> and ubuntu <a href="https://launchpad.net/ubuntu/+cdmirrors">here</a>.</li>
 					
 

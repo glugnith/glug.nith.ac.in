@@ -65,7 +65,7 @@
             <br />
 			This greatly help people sitting at different places working on their systems to build and discuss various changes that should or need to be included on the website.
             <br />
-			<a href="http://glug.nith.ac.in/contribute.php" target="_blank">&#187;&#187;Read More about contributing here</a>
+			<a href=/contribute.php target="_blank">&#187;&#187;Read More about contributing here</a>
 		</p>
 				</div>
 		</div>	

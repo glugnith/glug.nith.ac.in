@@ -74,7 +74,7 @@
                         <p>Doing so have some advantage of higher speed downloading the softwares during non Internet hours when the proxy server is not busy. Proxy server allows connection to glug.nith.ac.in 24 hours round the clock</p>
 						<br />
 <h3>Automatic Installation</h3>
-                        You can download the script <a href="/downloads/glug-mirror.sh">here</a>. Run this script and it will automatically adjust your <b>Ubuntu</b> installation to download and update via glug servers. Basically what it does is same as described above in manual installation.  
+                        You can download the script <a href="/scripts/glug-mirror.sh">here</a>. Run this script and it will automatically adjust your <b>Ubuntu</b> installation to download and update via glug servers. Basically what it does is same as described above in manual installation.  
                         <br/>
                             <br/>
                          Most common mistake here is that you get a message 'Permission Denied'. This is because the script you downloaded is not executable. To set the executable bit here, enter this command : chmod +x glug-mirror.sh . After it execute the script again. You should have now this issue resolved.
@@ -104,6 +104,10 @@
 						<p><a href="ftp://glug.nith.ac.in/linuxmint/linuxmint-12-gnome-cd-nocodecs-64bit.iso">Linux Mint 12 GNOME NOCODECS(64-bit) </a></p>
 						<p><a href="ftp://glug.nith.ac.in/linuxmint/linuxmint-12-gnome-dvd-32bit.iso">Linux Mint 12 GNOME DVD(32-bit) </a></p>
 						<p><a href="ftp://glug.nith.ac.in/linuxmint/linuxmint-12-gnome-dvd-64bit.iso">Linux Mint 12 GNOME DVD(64-bit) </a></p>  -->
+
+                        <h4>Rescatux</h4>
+                        <p><a href="ftp://glug.nith.ac.in/downloads/rescatux_cdrom_usb_hybrid_i386_486-amd64_0.29.iso"></p>
+
 						<div class="line1"></div>
 						
 						<h4>How to create Live-USB on Windows</h4>

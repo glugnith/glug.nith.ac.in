@@ -105,8 +105,6 @@
 						<p><a href="ftp://glug.nith.ac.in/linuxmint/linuxmint-12-gnome-dvd-32bit.iso">Linux Mint 12 GNOME DVD(32-bit) </a></p>
 						<p><a href="ftp://glug.nith.ac.in/linuxmint/linuxmint-12-gnome-dvd-64bit.iso">Linux Mint 12 GNOME DVD(64-bit) </a></p>  -->
 
-                        <h4>Rescatux</h4>
-                        <p><a href="ftp://glug.nith.ac.in/downloads/rescatux_cdrom_usb_hybrid_i386_486-amd64_0.29.iso"></p>
 
 						<div class="line1"></div>
 						

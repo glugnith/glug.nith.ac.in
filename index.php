@@ -59,7 +59,7 @@
 				</div>
 				<div class="content_style2_info">
                 <p>
-			<b><a href=http://github.com>Git</a></b> is a famous tool to organise and colloborate among various code contributors.
+			<b><a href=http://en.wikipedia.org/wiki/Git_%28software%29>Git</a></b> is a famous tool to organise and colloborate among various code contributors.
 			<br />
 			By using this famous tool, you can make contribution to this website which will directly reflect here. Further this provides a powerful collaboration, review and code management for such a purpose and other development projects.
             <br />

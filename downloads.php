@@ -109,7 +109,9 @@
 						<div class="line1"></div>
 						
 						<h4>How to create Live-USB on Windows</h4>
-						<p>You can download UNetbootin.exe from <a href="ftp://glug.nith.ac.in/unetbootin-windows-563.exe">here</a> and create the startup disk by selecting the iso of you favourite distribution.</p>
+						<p>You can download UNetbootin.exe for windows from <a href="/downloads/unetbootin-windows-583.exe">here</a></p>
+                        <p>Download UNetbootin for Linux from <a href="/downloads/unetbootin-linux-583">here</a></p>
+                        <p>Download UNetbootin for Mac from <a href="/downloads/unetbootin-mac-583.zip">here</a></p> and create the startup disk by selecting the iso of you favourite distribution.
                                             <!--   <h4>Download Wine 1.4 and Wine Tricks</h4>
                                                <p>You can download wine 1.4 debian package X86_64from <a href ="./tutorials/wine.deb">here</a></p>
                                                <p>You can download wine 1.4 debian package X86 from <a href ="./tutorials/wine1.4_i386.deb">here</a></p>

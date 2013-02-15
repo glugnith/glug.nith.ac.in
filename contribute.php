@@ -101,10 +101,30 @@ By this time, you might be wondering how to accomplish this whole thing. For tha
                     <p>
                      The <a href=https://help.github.com/articles/set-up-git>BootCamp</a> mentioned above will help you in performing basic tasks that should be enough to contribute. For more information and learning more about git and ways to use git, nothing should be better than their official website and documentation <a href=http://git-scm.com/>here</a>.
                     </p>
+<br/>                    
                     
-                    
-                    
-                    
+                   <h2>Some Examples</h2>
+                      <div class="line1"></div>
+                      <p>
+                       In this example, we will be doing a very basic change, say adding a new news article on the home page. First of all we mustbe well aware of where the files are in the directory structure. As the name of any home webpage is index.php or index.html, similarly in our case, you can easily observe an index.php file in the root directory of downloaded source code. Now you open this file index.php and find the section where you need to add the new news article. There will be section entitled with a comment saying <b>Latest news goes here</b>. You need to find this section. After finding this section, if you know a little html, you will know where you need to add the new news article. To keep uniformity in the style of the new articles, you just copy the old article within corresponding p tags and paste it as another section below it. Then you change all the links and text from there to make it your own news. Now you can save your file and exit.
+                    </p><br/>
+                    <p>
+                    This was all about the changes you have made. Now will be using the GIT part. We will run some git commands which will serve as a request to the administrator of the website to include your change in the main repository. Follow the following commands in order.
+                    </p><br/>
+                       <p>
+                       First you need to add this file to commit stage for committing it and saving your changes permanently. To do this, you can issue command as 
+                       </p>
+                      <b> git add index.php</b>
+ <br/>This will make index.php file ready for committing. Now you commit this file with appropriate message as : <br/>
+                   <b> git commit -m 'added a new news article on the website front page'</b> <br/>
+                      This commits your change. Note that the message in the quotes after the -m flag is the message useful for the administrator to know about your change. This is highly recommended to add a suitable message with your commit.<br/>
+                      Now that you have commited your change, you can push your changes to the github website. To do that, issue following command : <br/>
+                       <b>git push origin master</b>
+<br/><br/>
+                Now when you open your github account, you will see your changes are reflected there. On the top, find this button named <b>Pull Request</b>. Then hit this button and your request to add the change will be submitted to the administrator of the website. As soon as he accepts your change, your change will be reflected on the main website.
+<br/>
+<br/> 
+In case of any confusion, query you can frankly drop an email on admin@glug.nith.ac.in. We will be happy to respond.
                     </p>
 				</div>
 			</div>

@@ -18,14 +18,6 @@
 			</ul>
 		</div>
 		
-		<div id="navbar_footer2">
-			<strong>Connect With Us -</strong>
-			<ul>
-				<a href="https://www.facebook.com/glug.nith" target="_blank"><li>Facebook</li></a>
-				&nbsp;&nbsp;<a href="http://glug.nith.ac.in/wiki.php" target="_blank"><li>Wiki</li></a>
-			</ul>
-		</div>
-		
 		
 	</div>
 	

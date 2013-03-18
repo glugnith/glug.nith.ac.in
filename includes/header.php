@@ -10,6 +10,17 @@
   <meta name="keywords" content="LUG, GLUG, NITH, Linux User Groups, Ubuntu Mirrors, fedora mirrors, LDP mirror">
    <meta name="author" content="GLUG-NITH Community">
 
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=166402353514302";
+          fjs.parentNode.insertBefore(js, fjs);
+          }(document, 'script', 'facebook-jssdk'));</script>
+
+
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
 <title>GNU/Linux User Group NIT Hamirpur</title>
 <link rel="stylesheet" type="text/css" href="/css/main.css" />
@@ -57,7 +68,6 @@
 	<div id="header_nav">
 		<div id="header_nav_2">
 			<div id="search_cont">
-			
 				<form name="form1" method="post" action="/content_search.php">
 					<table>
 						<tr>
@@ -70,7 +80,7 @@
 			</div>
 			<div id="navbar">
 				<ul>
-				<a href="/index.php"><div class="navbar_background_hover"><li>Home</li></div></a>|<a href="/paste"><div class="navbar_background_hover"><li>GluPaste</li></div></a>|<a href="/tutorials.php"><div class="navbar_background_hover"><li>Tutorials</li></div></a>|<a href="/wiki"><div class="navbar_background_hover"><li>Wiki</li></div></a>|<a href="/downloads.php"><div class="navbar_background_hover"><li>Downloads</li></div></a>|<a href="/projects.php"><div class="navbar_background_hover"><li>Projects</li></div></a>|<a href="https://facebook.com/glug.nith"><div class="navbar_background_hover"><li>Facebook</li></div></a>|<a href="https://twitter.com/glugnith"><div class="navbar_background_hover"><li>Twitter</li></div></a>
+				<a href="/index.php"><div class="navbar_background_hover"><li>Home</li></div></a>|<a href="/paste"><div class="navbar_background_hover"><li>GluPaste</li></div></a>|<a href="/tutorials.php"><div class="navbar_background_hover"><li>Tutorials</li></div></a>|<a href="/wiki"><div class="navbar_background_hover"><li>Wiki</li></div></a>|<a href="/downloads.php"><div class="navbar_background_hover"><li>Downloads</li></div></a>|<a href="/projects.php"><div class="navbar_background_hover"><li>Projects</li></div></a>|<div class="fb-like" data-href="https://www.facebook.com/glug.nith" data-send="false" data-layout="button_count" data-width="450" data-show-faces="true"></div>|<a href="https://twitter.com/glugnith" class="twitter-follow-button" data-show-count="false" data-lang="en">Follow</a>
 				</ul>
 			</div>
 			<div class="float_clear">

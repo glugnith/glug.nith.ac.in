@@ -63,14 +63,7 @@ function content_search($keyword_in){
 				  "index.php",
 				  "links.php",
 				  "contactus.php",
-				  "media.php",
-				  "tutorials.php",
 				  "wiki.php",
-				  "tutorials/apache.php",
-				  "tutorials/pro_ftpd.php",
-				  "tutorials/vs_ftpd.php",
-                  "tutorials/gnu_octave.php",
-                  ""
 				  );
 	$filename2 = "includes/main_info_right.php";
 	
@@ -78,6 +71,7 @@ function content_search($keyword_in){
 	
 	$i=0;
 	while(isset($filename[$i])){
+        echo "$filename[$i]";
 		$fp1 = fopen($filename[$i], "r") or die("File could not be opened!");
 		$fp2 = fopen($filename[$i], "r") or die("File could not be opened!"); 
 		

@@ -106,7 +106,7 @@ $(document).ready(function(){
 
 	/* glug updates start */
 	
-	$('#glug_updates_all').glug_updates_pgn({timeout:7000});
+	$('#glug_updates_all').glug_updates_pgn({timeout:10000});
 	
 	/* glug updates ends */
 

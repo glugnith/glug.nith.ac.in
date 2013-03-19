@@ -37,20 +37,22 @@
 <script type="text/javascript" src="/js/javascript.js">
 </script>
 
-<!--google-analytics -->
+
+<!--Google analytics code installed below. -->
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-35429655-1']);
-  _gaq.push(['_trackPageview']);
+    _gaq.push(['_setAccount', 'UA-39406716-1']);
+      _gaq.push(['_trackPageview']);
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+                      })();
 
 </script>
+
 </head>
 
 <body>
@@ -80,7 +82,7 @@
 			</div>
 			<div id="navbar">
 				<ul>
-				<a href="/index.php"><div class="navbar_background_hover"><li>Home</li></div></a>|<a href="/paste"><div class="navbar_background_hover"><li>GluPaste</li></div></a>|<a href="/tutorials.php"><div class="navbar_background_hover"><li>Tutorials</li></div></a>|<a href="/wiki"><div class="navbar_background_hover"><li>Wiki</li></div></a>|<a href="/downloads.php"><div class="navbar_background_hover"><li>Downloads</li></div></a>|<a href="/projects.php"><div class="navbar_background_hover"><li>Projects</li></div></a>|<div class="fb-like" data-href="https://www.facebook.com/glug.nith" data-send="false" data-layout="button_count" data-width="450" data-show-faces="true"></div>|<a href="https://twitter.com/glugnith" class="twitter-follow-button" data-show-count="false" data-lang="en">Follow</a>
+				<a href="/index.php"><div class="navbar_background_hover"><li>Home</li></div></a>|<a href="/paste"><div class="navbar_background_hover"><li>GluPaste</li></div></a>|<a href="/tutorials.php"><div class="navbar_background_hover"><li>Tutorials</li></div></a>|<a href="/wiki"><div class="navbar_background_hover"><li>Wiki</li></div></a>|<a href="/downloads.php"><div class="navbar_background_hover"><li>Downloads</li></div></a>|<a href="/projects.php"><div class="navbar_background_hover"><li>Projects</li></div></a>|<a href="https://www.facebook.com/glug.nith"><div class="navbar_background_hover"><li>Facebook</li></div></a>|<a href="https://twitter.com/glugnith"><div class="navbar_background_hover"><li>Twitter</li></div></a>
 				</ul>
 			</div>
 			<div class="float_clear">

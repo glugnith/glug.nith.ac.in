@@ -10,7 +10,7 @@
 						<a href="./wiki.php"><li>Wiki</li></a> | 
 			<a href="./downloads.php"><li>Downloads</li></a> |
 			<a href="./projects.php"><li>Projects</li></a> |
-            <a href="./gallery.php"><li>Gallery</li></a> |
+            <a href="/webmail"><li>WebMail</li></a> |
             <a href="./faq.php"><li>FAQ</li></a> |
 			<a href="./contactus.php"><li>Contact Us</li></a> |
             <a href="http://nith.ac.in"><li>NITH</li></a>

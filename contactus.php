@@ -54,7 +54,7 @@
                  //     $subject 	  = NULL;
                   //    $message    = NULL;
                       $email_from = $_POST['email_from'] ;
-                      $email_to = "mailglug@gmail.com" ;
+                      $email_to = "admin@glug.nith.ac.in" ;
                       $subject = $_POST['subject'] ;
                       $message = $_POST['message'] ;
                       $message = wordwrap($message, 70);

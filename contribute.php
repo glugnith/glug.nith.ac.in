@@ -125,7 +125,30 @@ By this time, you might be wondering how to accomplish this whole thing. For tha
 <br/>
 <br/> 
 In case of any confusion, query you can frankly drop an email on admin@glug.nith.ac.in. We will be happy to respond.
+<br/>
+<br/>
                     </p>
+					<h2>Learning Material</h2>
+                      <div class="line1"></div>
+					If you want to learn more about git than there are plenty of books , websites, video tutorials online which you can read
+					and watch both online and offline .The links to directly download them are provided below</br>
+					</br></br>
+					<a href="https://github.s3.amazonaws.com/media/progit.en.pdf"><b>1.Pro Git-</b></a>  It's an official book of the Git and GitHub community written by Scott Chacon and published by Apress.</br></br>
+					<a href="http://it-ebooks.info/go.php?id=919-1371556924-6aefe9f2faf570c17fa3f92881d42669"><b>2.Version Control with Git-</b></a>Version Control with Git takes you step-by-step through ways to
+					track, merge, and manage software projects, using this highly flexible, open source version</br>
+					control system.</br></br>
+					<a href="http://it-ebooks.info/go.php?id=1759-1371556930-ca26e1a6d8a0a8076267868a145b3726"><b>3.Git: Version Control for Everyone-</b></a>A complete beginner's workflow for version control of common documents and content. E
+					xamples used are from non-techie, day to day computing activities we all engage in. Learn through multiple modes - readers learn theory to understand the concept and reinforce it by practical tutorials.
+					Ideal for users on Windows, Linux, and Mac OS X.</br></br>
+					<a href="http://it-ebooks.info/go.php?id=45-1371556925-a36612fe99cabace47573a78fd96e557"><b>4.Pragmatic Guide to Git-</b></a> Need to learn how to wrap your head around Git, but don't need a lot of hand holding? Grab this book if you're new to Git, not to the world of programming. Git tasks displayed 
+					on two-page spreads provide all the context you need, without the extra fluff.</br>
+					</br>
+					<h4>Great articles-</h4>Here are some of the great links to articles which provide you all the information t																												
+					you need to know about git.</br>
+					</br>
+					<a href="http://answers.oreilly.com/topic/801-how-to-learn-git-a-link-roundup/"><b>1.How to learn git - A link roundup-</b></a>This article consists of links to the  entire material available on the web related to git.It consists of links to		
+					to videos , blog , wikis , reference etc. Just click it and start learning.</br></br>
+					<a href="http://stackoverflow.com/questions/315911/git-for-beginners-the-definitive-practical-guide"><b>2.Git for beginners: The definitive practical guide-</b></a>  An article on stack overflow website consists of all the faq, installation , references to git. 
 				</div>
 			</div>
 		</div>

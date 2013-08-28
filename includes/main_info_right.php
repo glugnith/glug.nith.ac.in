@@ -44,5 +44,10 @@
 	</div>
 </div>
 </br>
+<!-- facebook like box-->
 <iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fglug.nith&amp;width=200&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;header=true&amp;stream=false&amp;show_border=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:200px; height:290px;" allowTransparency="true"></iframe>
+</br></br>
+<!-- twitter follow button-->
+<a href="https://twitter.com/glugnith" class="twitter-follow-button" data-show-count="false" data-lang="en" data-size="large">Follow @glugnith</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 <div id="main_info_right_search_ends"></div>

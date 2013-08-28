@@ -1,4 +1,5 @@
 <div id="main_info_right_search_starts"></div>
+
 <div class="content_style3" >
 	<div class="content_style3_heading">
 		<h3>Updates</h3>
@@ -42,4 +43,6 @@
 
 	</div>
 </div>
+</br>
+<iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fglug.nith&amp;width=200&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;header=true&amp;stream=false&amp;show_border=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:200px; height:290px;" allowTransparency="true"></iframe>
 <div id="main_info_right_search_ends"></div>

@@ -147,7 +147,7 @@ In case of any confusion, query you can frankly drop an email on admin@glug.nith
 					you need to know about git.</br>
 					</br>
 					<a href="http://answers.oreilly.com/topic/801-how-to-learn-git-a-link-roundup/"><b>1.How to learn git - A link roundup-</b></a>This article consists of links to the  entire material available on the web related to git.It consists of links to		
-					to videos , blog , wikis , reference etc. Just click it and start learning.</br></br>
+				 videos , blog , wikis , reference etc. Just click it and start learning.</br></br>
 					<a href="http://stackoverflow.com/questions/315911/git-for-beginners-the-definitive-practical-guide"><b>2.Git for beginners: The definitive practical guide-</b></a>  An article on stack overflow website consists of all the faq, installation , references to git. 
 				</div>
 			</div>

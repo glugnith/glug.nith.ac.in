@@ -78,7 +78,7 @@
 			</div>
 			<div id="navbar">
 				<ul>
-				<a href="/index.php"><div class="navbar_background_hover"><li>Home</li></div></a>|<a href="/paste"><div class="navbar_background_hover"><li>GluPaste</li></div></a>|<a href="/tutorials.php"><div class="navbar_background_hover"><li>Tutorials</li></div></a>|<a href="/wiki"><div class="navbar_background_hover"><li>Wiki</li></div></a>|<a href="/downloads.php"><div class="navbar_background_hover"><li>Downloads</li></div></a>|<a href="/projects.php"><div class="navbar_background_hover"><li>Projects</li></div></a>|<a href="https://www.facebook.com/glug.nith"><div class="navbar_background_hover"><li>Facebook</li></div></a>|<a href="/tweet.php"><div class="navbar_background_hover"><li>Twitter</li></div></a>
+				<a href="/index.php"><div class="navbar_background_hover"><li>Home</li></div></a>|<a href="/paste"><div class="navbar_background_hover"><li>GluPaste</li></div></a>|<a href="/tutorials.php"><div class="navbar_background_hover"><li>Tutorials</li></div></a>|<a href="/wiki"><div class="navbar_background_hover"><li>Wiki</li></div></a>|<a href="/downloads.php"><div class="navbar_background_hover"><li>Downloads</li></div></a>|<a href="/projects.php"><div class="navbar_background_hover"><li>Projects</li></div></a>
 				</ul>
 			</div>
 			<div class="float_clear">

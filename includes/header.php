@@ -23,18 +23,18 @@
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
 <title>GNU/Linux User Group NIT Hamirpur</title>
-<link rel="stylesheet" type="text/css" href="/css/main.css" />
+<link rel="stylesheet" type="text/css" href="./css/main.css" />
 <!--<script type="text/javascript" src="/js/jquery_1.7.1.min.js">
 </script>-->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js">
 </script>
 <script src="/js/jquery-ui-1.8.18.custom.min.js">
 </script>
-<script type="text/javascript" src="/js/glug_updates_pgn.js">
+<script type="text/javascript" src="./js/glug_updates_pgn.js">
 </script>
-<script type="text/javascript" src="/js/javascript_gallery.js">
+<script type="text/javascript" src="./js/javascript_gallery.js">
 </script>
-<script type="text/javascript" src="/js/javascript.js">
+<script type="text/javascript" src="./js/javascript.js">
 </script>
 
 
@@ -59,10 +59,10 @@
 <div id="header_cont">
 	<div id="header_logo">
 		<div id="header_logo_cont">
-			<img src="/images/background/glug_logo_final.jpg" />
+			<img src="./images/background/glug_logo_final.jpg" />
 			<div id="tuxedo_img">
 				<div id="tuxedo">
-					<img src="/images/background/glug_logo_tuxedo_final.jpg" />
+					<img src="./images/background/glug_logo_tuxedo_final.jpg" />
 				</div>
 			</div>
 		</div>
@@ -82,7 +82,7 @@
 			</div>
 			<div id="navbar">
 				<ul>
-				<a href="/index.php"><div class="navbar_background_hover"><li>Home</li></div></a>|<a href="/paste"><div class="navbar_background_hover"><li>GluPaste</li></div></a>|<a href="/tutorials.php"><div class="navbar_background_hover"><li>Tutorials</li></div></a>|<a href="/wiki"><div class="navbar_background_hover"><li>Wiki</li></div></a>|<a href="/downloads.php"><div class="navbar_background_hover"><li>Downloads</li></div></a>|<a href="/projects.php"><div class="navbar_background_hover"><li>Projects</li></div></a>|<a href="https://www.facebook.com/glug.nith"><div class="navbar_background_hover"><li>Facebook</li></div></a>|<a href="/tweet.php"><div class="navbar_background_hover"><li>Twitter</li></div></a>
+				<a href="/index.php"><div class="navbar_background_hover"><li>Home</li></div></a>|<a href="/paste"><div class="navbar_background_hover"><li>GluPaste</li></div></a>|<a href="/tutorials.php"><div class="navbar_background_hover"><li>Tutorials</li></div></a>|<a href="/wiki"><div class="navbar_background_hover"><li>Wiki</li></div></a>|<a href="/downloads.php"><div class="navbar_background_hover"><li>Downloads</li></div></a>|<a href="/projects.php"><div class="navbar_background_hover"><li>Projects</li></div></a>
 				</ul>
 			</div>
 			<div class="float_clear">

@@ -22,18 +22,7 @@
     <div id="main_info_center">
 		<div id="main_info_center_in">
 
-<!--  <div class="content_style2">
-				<div class="content_style2_heading">
-					<h3>New Tutorials</h3>
-				</div>
-				<div class="content_style2_info">
-					<p>
-						<a href="./tutorials/gnu_octave.php">GNU Octave: Free Matlab</a>
-    				</p>
-				</div>
-			</div>
-		<br />
--->
+
 			<div class="content_style2">
 				<div class="content_style2_heading">
 					<h3>The Linux Documentation Project</h3>
@@ -47,22 +36,7 @@
 			</div>
             <br />
 
-        <!--    <div class="content_style2">
-				<div class="content_style2_heading">
-					<h3>Archives</h3>
-				</div>
-				<div class="content_style2_info">
-					<p>
-						<a href="./tutorials/pro_ftpd.php">ProFTPD: Quick and Dirty</a> 
-						<br /><br />
-						<a href="./tutorials/apache.php"> Apache: Very quick and Extremely dirty</a>
-						<br /><br />
-						<a href="./tutorials/vs_ftpd.php">vsftpd: Short n Sweet</a>
-						<br /><br />
-    				</p>
-				</div>
-			</div>
--->	
+
 		</div>
 	</div> 
 

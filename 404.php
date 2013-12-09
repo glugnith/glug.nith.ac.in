@@ -44,12 +44,10 @@
 					<h3>Page Not Found</h3>
 				</div>
 				<div class="content_style2_info">
-					<p>The page you requested can not be found on the server.<br />
+                    <center><img src="images/404_man.jpg" /><br/></center>
 						<a href="http://glug.nith.ac.in">Return Home.</a><br />
 				                <a href="javascript: history.go(-1)">Return Back</a><br />
-						Happy Hacking  :)
 		
-                    </p>
 				</div>
 			</div>
             <!--End of About -->

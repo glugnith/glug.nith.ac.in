@@ -41,6 +41,10 @@
 				<div class="content_style2_heading">
 					<h3>Downloads</h3>
 				</div>
+<div class="content_style2_info">
+Our SAN space is experiencing some technical difficulties. So we are temporarily not hosting any of the ISO or the mirrors that we earlier hosted. We are sorry for the inconvenience caused.
+</div>
+               <!-- 
 				<div class="content_style2_info">
 					<p>You can use GLUG NITH ftp server to download latest iso's. You can visit GLUG NITH ftp server <a href="ftp://glug.nith.ac.in" target="_blank"><b>HERE</b></a>
 						<br /><br />
@@ -100,10 +104,10 @@
                         <p><a href="ftp://glug.nith.ac.in/linuxmint/linuxmint-14.1-mate-dvd-64bit.iso">Linux Mint 14 MATE DVD(64-bit)</a></p>
                         <p><a href="ftp://glug.nith.ac.in/linuxmint/linuxmint-14-kde-dvd-32bit.iso">Linux Mint 14 KDE DVD(32-bit)</a></p>
                         <p><a href="ftp://glug.nith.ac.in/linuxmint/linuxmint-14-kde-dvd-64bit.iso">Linux Mint 14 KDE DVD(64-bit)</a></p>
-                       <!-- <p><a href="ftp://glug.nith.ac.in/linuxmint/linuxmint-12-gnome-cd-nocodecs-32bit.iso">Linux Mint 12 GNOME NOCODECS(32-bit) </a></p>
+                        <p><a href="ftp://glug.nith.ac.in/linuxmint/linuxmint-12-gnome-cd-nocodecs-32bit.iso">Linux Mint 12 GNOME NOCODECS(32-bit) </a></p>
 						<p><a href="ftp://glug.nith.ac.in/linuxmint/linuxmint-12-gnome-cd-nocodecs-64bit.iso">Linux Mint 12 GNOME NOCODECS(64-bit) </a></p>
 						<p><a href="ftp://glug.nith.ac.in/linuxmint/linuxmint-12-gnome-dvd-32bit.iso">Linux Mint 12 GNOME DVD(32-bit) </a></p>
-						<p><a href="ftp://glug.nith.ac.in/linuxmint/linuxmint-12-gnome-dvd-64bit.iso">Linux Mint 12 GNOME DVD(64-bit) </a></p>  -->
+						<p><a href="ftp://glug.nith.ac.in/linuxmint/linuxmint-12-gnome-dvd-64bit.iso">Linux Mint 12 GNOME DVD(64-bit) </a></p>  
 
 
 						<div class="line1"></div>
@@ -112,13 +116,15 @@
 						<p>You can download UNetbootin.exe for windows from <a href="/downloads/unetbootin-windows-583.exe">here</a></p>
                         <p>Download UNetbootin for Linux from <a href="/downloads/unetbootin-linux-583">here</a></p>
                         <p>Download UNetbootin for Mac from <a href="/downloads/unetbootin-mac-583.zip">here</a></p> and create the startup disk by selecting the iso of you favourite distribution.
-                                            <!--   <h4>Download Wine 1.4 and Wine Tricks</h4>
+                                               <h4>Download Wine 1.4 and Wine Tricks</h4>
                                                <p>You can download wine 1.4 debian package X86_64from <a href ="./tutorials/wine.deb">here</a></p>
                                                <p>You can download wine 1.4 debian package X86 from <a href ="./tutorials/wine1.4_i386.deb">here</a></p>
-                                               <p>You can download wine tricks from <a href="./tutorials/winetricks.tar.gz">here</a></p>  -->
+                                               <p>You can download wine tricks from <a href="./tutorials/winetricks.tar.gz">here</a></p>  
 					</p>
 				</div>
-			</div>
+                -->
+
+                			</div>
 		</div>
 	</div>
 	

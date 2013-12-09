@@ -55,7 +55,7 @@
 <div id="header_cont">
 	<div id="header_logo">
 		<div id="header_logo_cont">
-			<img src="./images/background/glug_logo_final.jpg" />
+			<a href="/"><img src="./images/background/glug_logo_final.jpg" /></a>
 			<div id="tuxedo_img">
 				<div id="tuxedo">
 					<img src="./images/background/glug_logo_tuxedo_final.jpg" />

@@ -1,5 +1,6 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html> <!-- HTML5 doctype declaration -->
+<!-- <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> -->
+<html> <!-- xmlns="http://www.w3.org/1999/xhtml" -->
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
  <meta name="description" content="GLUG NITH is a moniker for the GNU/Linux User Group of National Institute of Technology, Hamirpur. Our GLUG is mainly designed to cater to the GNU/Linux related needs of the students, faculty, staff, and anybody else belonging to NIT Hamirpur. We are a heterogeneous mixture of people ranging from the beta testers and kernel hackers to the fresh-faced newbies, held together together by a common love for GNU/Linux in particular and Free Software in general. ">
@@ -55,10 +56,10 @@
 <div id="header_cont">
 	<div id="header_logo">
 		<div id="header_logo_cont">
-			<a href="/"><img src="./images/background/glug_logo_final.jpg" /></a>
+			<a href="/"><img src="./images/background/glug_logo_final.jpg" alt="GLUG Logo"/></a>
 			<div id="tuxedo_img">
 				<div id="tuxedo">
-					<img src="./images/background/glug_logo_tuxedo_final.jpg" />
+					<img src="./images/background/glug_logo_tuxedo_final.jpg" alt="Tux Logo"/>
 				</div>
 			</div>
 		</div>

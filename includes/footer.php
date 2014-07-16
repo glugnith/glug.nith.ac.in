@@ -14,12 +14,18 @@
 			</ul>
 		</div>
 		
-		
+		<div id = "navbar_footer2">
+			<ul>				
+				<a href="https://www.facebook.com/glug.nith" ><img src = "./images/fblogo.png" alt = "fb"/></a>
+				<a href="https://twitter.com/glugnith" ><img src = "./images/twlogo.png" alt = "twitter"/></a>
+				<a href="https://github.com/glugnith/glug.nith.ac.in" ><img src = "./images/gitlogo.png" alt = "git"/></a>
+			</ul>
+		</div>
 	</div>
 	
 	<div id="copyright">
 			<strong>&copy; GLUG NITH &nbsp;&nbsp;</strong>
-		</div>
+	</div>
 
 </body>
 </html>

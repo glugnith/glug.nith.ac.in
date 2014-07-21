@@ -72,58 +72,7 @@
 		<br />
 
             <!--The latest news goes here -->
-       <!--     <div class="content_style2">
-				<div class="content_style2_heading">
-					<h3>News</h3>
-				</div>
-				<div class="content_style2_info">
-                <p>
-				<strong><a href="http://hothardware.com/News/Fedora-18-Linux-Released/" target="_blank">Fedora 18 released with EFI Support</a></strong>
-                <br />
-                    One of the big new features in Fedora 18 is that it now supports UEFI Secure Boot by using bootloaders that have been signed with Microsoft certificates. In short, you should have no trouble booting Fedora 18 with a Windows 8 PC.
-               <br />
-                <br /></p>
-		<p>
-		<strong><a href="/images/tshirt.jpg" target="_blank">GLUG NITH t-shirt</a></strong>
-		<br />
-		We are printing GLUG NITH t-shirts. Anyone who is interested in buying can contact me at sanjeev90an@gmail.com. The cost of a t-shirt would be around 200 rupees.
-		<br />
-		<a href="/images/tshirt.jpg" target="_blank">Click here</a> to see the design of the t-shirt.
-		</p>
-		<br />
-	       <p>
-		 <strong><a href="/downloads.php">How to use apt-get from glug-nith ubuntu archive mirror?</a></strong>
-		<br />
-		Now since GLUG NITH hosts the archive mirror of ubuntu. You can configure apt-get and synaptic to downlaod packeages from GLUG NITH mirror server. To know how to do this click <a href="/downloads.php">here</a>.
-		<br /> <br />
-	       </p>
-		<br />
-                 GLUG NITH is presenting its first event <b>installfest</b>. The basic installation of Ubuntu will be demonstrated first followed by an hands on session. Please bring your own laptops and pendrives.
-		<br />
-		<b>Date</b>- 11,January,2012
-		<br />
-		<b>Time</b>- 4:45pm
-		<br />
-		<b>Venue</b>- Seminar Hall CSED NIT Hamirpur.
-                <p>
-                <strong><a href="http://www.linuxforu.com/2012/03/rms-interview-richard-stallman-freedom-android-amazon-facebook-steve-jobs/" target="_blank">An Interview with Richard Stallman on Freedom, Android, Amazon, Facebook, Steve Jobs.</a></strong>
-                <br />
-                 Any government that tells people to teach proprietary software is essentially delivering the country into the hands of a company.
-                <br />
-                 <a href="http://www.linuxforu.com/2012/03/rms-interview-richard-stallman-freedom-android-amazon-facebook-steve-jobs/" target="_blank">Click here</a> to read the full interview of Richard Stallman.
-                </p><br />
-                <p>
-                <strong><a href="http://linuxhelp.blogspot.com/2011/11/top-5-linux-distributions.html" target = "_blank">Top 5 Linux Distributions</a></strong>
-                <br />
-			    As a Linux user, I am sure, you will be interested to know which is the most popular Linux distribution. <br />
-	    		Click <a href="http://linuxhelp.blogspot.com/2011/11/top-5-linux-distributions.html" target = "_blank">here</a> to check out who is winning the battle nowadays.
-                </p>
-                <br />
 
-
-
-				</div>
-			</div> -->
                <center> <a class="twitter-timeline" width="520" height="200"  href="https://twitter.com/glugnith"  data-widget-id="315532987880054784">Tweets by @glugnith</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 </center>

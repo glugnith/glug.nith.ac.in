@@ -213,7 +213,9 @@ p{
 
 #navbar_footer2{
 	float:right;
-	width:150px;
+	width:130px;
+	padding-top: 2px;
+	padding-left: 10px;
 }
 
 #navbar_footer2 li{

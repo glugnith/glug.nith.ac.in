@@ -1,7 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
 
-*{                                        
+*{
 	margin:0;
 	padding:0;
 }
@@ -113,6 +113,7 @@ p{
 	padding-right:10px;
 	padding-bottom:10px;
 	border-right: 1px solid #D2D9E7;
+	
 }
 
 #main_info_left{
@@ -120,6 +121,7 @@ p{
 	width:15%;
 	margin-left:1%;
 	float:left;
+	
 }
 
 #main_info_center{
@@ -186,12 +188,13 @@ p{
 
 #footer{
 	width:100%;
+	position:bottom;
 	position:relative;
 	height:40px;
 	background-color:#003366;
 	color:#FFF;
-	margin-bottom:8px;
-	overflow:hidden;
+	margin-bottom:0px;
+	overflow:auto;
 	
 	-webkit-box-shadow: 0 8px 6px -6px black;
 	-moz-box-shadow: 0 8px 6px -6px black;
@@ -226,6 +229,7 @@ p{
 }
 
 #copyright{
+	position:bottom;
 	color:#3B5998;
 	width:100px;
 	margin:0 auto;
@@ -319,11 +323,16 @@ p{
 /*content style2 starts*/
 
 .content_style2{
-	line-height:16px;
-	
+	line-height: 16px;
+	z-index: 50;
 	-webkit-box-shadow: 0 8px 6px -6px black;
 	-moz-box-shadow: 0 8px 6px -6px black;
 	box-shadow: 0 8px 6px -6px black;
+	position: relative;
+	left: auto;
+	top: auto;
+	right: auto;
+	bottom: auto;
 }
 
 .content_style2 h3{
@@ -346,6 +355,7 @@ p{
 	padding:4px;
 	background-color:#EDEFF4;
 	border-bottom: 1px solid #D2D9E7;
+	z-index:1;
 }
 
 .content_style2_heading:hover{
@@ -649,4 +659,80 @@ p{
 }
 #lightbox_next:hover{
 	cursor:pointer;
+}
+
+<!members page styling>
+
+#yearlist{
+    position:center;
+    position:fixed;
+    width:16%;
+    margin-left:5%;
+    margin-right:5%;
+    padding-top:20px;
+}
+#yearlist:hover{
+	cursor:pointer;
+	color:#000000;
+}
+#yearlist_1{
+	position:center;
+	font-size:15px;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	text-align:center;
+}
+#yearlist_1:hover{
+	cursor:pointer;
+	color:#000000;
+}
+div.members_img {
+	margin: 15px;
+	padding: 5px;
+	border: 5px double #C8C8C8;
+	border-radius:5px;
+	height: auto;
+	width: auto;
+	float: left;
+	text-align: center;
+	list-style-type: disc;
+	position: relative;
+
+}
+
+div.members_img img {
+    display: inline;
+    margin: 5px;
+    width:150px;
+    height:150px;
+    border: 5px solid #C0C0C0;
+}
+
+div.members_img a:hover img {
+    /*border:0px solid #0000ff;*/
+}
+
+div.desc {
+    position:relative;
+    text-align: center;
+    color:black;
+    font-style:bold;
+    font-family:Verdana, Geneva, sans-serif;
+    font-weight: solid;
+    font-size:16px;
+    width: 120px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#link img{
+	height:31px;
+	width:31px;
+	float:left;
+	border:none;
+	position:center;
+}
+#spacing{
+	margin:5px;
+	border:5px;
+	width: auto;
+	height:600px;
 }

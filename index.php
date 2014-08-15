@@ -18,18 +18,6 @@
 				</div>
 			</div>
 			<br /><br />
-	<!--		<div class="content_style1_cont">
-				<div class="content_style1">
-					<div class="content_style1_heading">
-						<h3>Linux and the GNU Project</h3>
-					</div>
-					<div class="content_style1_info">
-						<strong>The version of GNU which is widely used today is more often known as "Linux" and many users are not aware of the extent of its connection with the GNU Project.</strong><br /><br />
-						<p>Linux is the kernel: the program in the system that allocates the machine's resources to the other programs that you run. The kernel is an essential part of an operating system, but useless by itself; it can only function in the context of a complete operating system. Linux is normally used in a combination with the GNU operating system: the whole system is basically GNU, with Linux functioning as its kernel.</p><br />
-						<strong><a href="http://www.gnu.org/gnu/linux-and-gnu.html">&#187;&#187;Read more</a></strong>
-					</div>  
-				</div>
-			</div>  -->
 		</div>
 	</div>
 		

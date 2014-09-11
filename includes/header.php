@@ -58,7 +58,7 @@
 			<div id="tuxedo_img">
 				<div id="tuxedo">
 					<!-- SFD Badge placed here -->
-					<a href = "http://www.softwarefreedomday.org/" target = "_blank"><img src = "./images/sfd.png" id = "sfd"></a>
+					<a href = "http://glug.nith.ac.in/sfd/" target = "_blank"><img src = "./images/sfd.png" id = "sfd"></a>
 					<img src="./images/background/glug_logo_tuxedo_final.jpg" alt = "Tux" />
 				</div>
 			</div>

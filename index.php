@@ -51,7 +51,23 @@
 			</div>
             <!--End of About -->
             <br />
-
+            <!--Temporary SFD Celebrations article-->
+			<div class="content_style2">
+				<div class="content_style2_heading">
+					<h3>Software Freedom Day Celebrations</h3>
+				</div>
+				<div class="content_style2_info">
+                <p>
+			<b><a href="http://www.softwarefreedomday.org/" target="_blank">Software Freedom Day(SFD)</a></b> is a worldwide celebration of Free and Open Source Software (FOSS). The main goal in this celebration is to educate the worldwide public about the benefits of using high quality FOSS in education, in government, at home, and in business — in short, everywhere! <br>
+			This year GNU's Linux Users Group of NIT Hamirpur is celebrating Software freedom Day with full enthusiasm. All the FOSS users in the college are very excited for the Event. This Year SFD is being celebrated worldwide on <b>20th September</b>.
+            <br />
+			<a href="http://www.softwarefreedomday.org/" target="_blank">&#187;&#187;View the official website of SFD!</a><br>
+			<a href="http://glug.nith.ac.in/sfd/" target="_blank">&#187;&#187;Click here to know more about SFD celebrations at NIT Hamirpur</a><br>
+			<a href="https://www.youtube.com/channel/UC1Ju3xbS53Jm766K_hxVapQ" target="_blank">&#187;&#187;See the promotional Videos of SFD@NITH</a><br>
+		</p>
+				</div>
+		</div>	
+		<br />
 <!--Git contribution article-->
              <div class="content_style2">
 				<div class="content_style2_heading">

@@ -24,6 +24,7 @@
         fwrite ( $fp, $name."\n" );
         fwrite ( $fp, $rollno."\n");
         fwrite ( $fp, $email."\n");
+        fwrite ( $fp, $_POST['desired_alias']."\n");
         fwrite ( $fp, $confirm_code."\n\n");
         echo "Thank you for submitting your request. Your details have been saved.\n";
         echo "Please verify your E-mail address from the confirmation mail sent to you!\n";

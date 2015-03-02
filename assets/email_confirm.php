@@ -17,7 +17,7 @@
             echo "Your have already requested for an alias. You will recieve your alias shortly.";
         } else {
             echo "Your E-mail address has been verified. You will recieve your alias shortly.";
-            echo $email;
+            //echo $email;
             copy_data($email);
         }
     } else {

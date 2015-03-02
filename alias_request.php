@@ -33,7 +33,8 @@
                     	    $_SESSION['name'] = $_POST['name'];
                     	    $_SESSION['rollno'] = $_POST['rollno'];
                     	    $_SESSION['email'] = $_POST['email'];
-                    	    $email_to = "rohan@glug.nith.ac.in";
+                    	    $_SESSION['desired_alias'] = $_POST['desired_alias'];
+                            $email_to = "rohan@glug.nith.ac.in";
                     	    include('./assets/temp_user_register.php');
                     	} else {
                     	    require "includes/alias_form.php";

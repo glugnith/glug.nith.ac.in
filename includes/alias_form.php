@@ -15,7 +15,8 @@
             <td><input name = 'email' type = 'email' required = 'required' /> </td>
         </tr>
         <tr>
-            <td><br></td>
+            <td>Desired E-mail Alias:</td>
+            <td><input name = 'desired_alias' = type = 'text' required = 'required'/></td>
         </tr>
         <tr>
 			<?php

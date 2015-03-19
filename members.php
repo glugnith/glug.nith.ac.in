@@ -33,55 +33,20 @@
 		</div>
 	</div>
 		
-	
-		
-	
-		
-		
-	<div id="main_info_center">
-		<div id="main_info_center_in">
-            <!--about -->
-			<div class="content_style2">
-				<div class="content_style2_heading">
-					<h3>Welcome to GNU/Linux User Group NIT Hamirpur</h3>
-				</div>
-				<div class="content_style2_info">
-					<p>GLUG NITH is a moniker for the GNU/Linux User Group of National Institute of Technology, Hamirpur.<br /><br />
-					Our GLUG is mainly designed to cater to the GNU/Linux related needs of the students, faculty, staff, and anybody else belonging to NIT Hamirpur. We are a heterogeneous mixture of people ranging from the beta testers and kernel hackers to the fresh-faced newbies, held together together by a common love for GNU/Linux in particular and Free Software in general.
-                    </p>
-				</div>
-			</div>
-            <!--End of About -->
-            <br />
-            	
-<!--Git contribution article-->
-             <div class="content_style2">
-				<div class="content_style2_heading">
-					<h3>Contributing to website</h3>
-				</div>
-				<div class="content_style2_info">
-                <p>
-			<b><a href=http://en.wikipedia.org/wiki/Git_%28software%29>Git</a></b> is a famous tool to organise and colloborate among various code contributors.
-			<br />
-			By using this famous tool, you can make contribution to this website which will directly reflect here. Further this provides a powerful collaboration, review and code management for such a purpose and other development projects.
-            <br />
-			This greatly help people sitting at different places working on their systems to build and discuss various changes that should or need to be included on the website.
-            <br />
-			<a href=/contribute.php target="_blank">&#187;&#187;Read More about contributing here</a>
-		</p>
-				</div>
-		</div>	
-		<br />
+	<div id = "table">	
+	<table  cellspacing = "4">
+	<tr><th>S.No.</th><th>Name</th><th>e-mail</th></tr>
+	<tr><td>1</td><td><a href="http://glug.nith.ac.in/members/aishwarya">aishwarya</a></td><td></td></tr>
+	<tr><td>2</td><td><a href="http://glug.nith.ac.in/members/anmol">anmol</a></td><td></td></tr>
+	<tr><td>3</td><td><a href="http://glug.nith.ac.in/members/amanpreet">amanpreet</a></td><td></td></tr>
+	<tr><td>4</td><td><a href="http://glug.nith.ac.in/members/abhinav">abhinav</a></td><td></td></tr>
+	<tr><td>5</td><td><a href="http://glug.nith.ac.in/members/div">div</a></td><td></td></tr>
+	<tr><td>6</td><td><a href="http://glug.nith.ac.in/members/akshika">akshika</a></td><td></td></tr>
+	<tr><td>7</td><td><a href="http://glug.nith.ac.in/members/rohan">rohan</a></td><td>rohanjaswal2507@gmail.com</td></tr>
+	</table>
+	</table>
 
-
-            <!--The latest news goes here -->
-
-        
-
-            <!-- End of News section -->
-		</div>
 	</div>
-		
 		
 	<div id="main_info_right">
 		<div id="main_info_right_in">

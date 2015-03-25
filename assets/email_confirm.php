@@ -14,10 +14,9 @@
     //Retrieve data from temporary users file if passkey verified
     if ( $result ) {
         if ( $verified ) {
-            echo "Your have already requested for an alias. You will recieve your alias shortly.";
+            echo "Your have already requested for an alias. You will receive your alias shortly.";
         } else {
-            echo "Your E-mail address has been verified. You will recieve your alias shortly.";
-            echo $email;
+            echo "Your E-mail address (".$email.") has been verified. You will receive your alias shortly.";
             copy_data($email);
         }
     } else {

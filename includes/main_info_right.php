@@ -15,15 +15,6 @@
 					<li><p align="justify">
                      Now you can contribute to website and make necessary changes you think should be reflected on the website like adding new articles, using git. Our github repository can be found <a href=https://github.com/glugnith/glug.nith.ac.in>here.</a> You can follow this how to guide about git <a href=/contribute.php>here</a>.
 					</p></li>
-			
-					<li><p align="justify">
-						Mozilla foundation is conducting <a href="https://reps.mozilla.org/e/mozvision/" target="blank"><b>MozVision</b></a> in NIT Hamirpur on Jan 24. Come and get involved in the one of the largest open source organisation.
-					</p></li>
-					
-					<li><p align="justify">
-                     Now you can contribute to website and make necessary changes you think should be reflected on the website like adding new articles, using git. Our github repository can be found <a href=https://github.com/glugnith/glug.nith.ac.in>here.</a> You can follow this how to guide about git <a href=/contribute.php>here</a>.
-					</p></li>
-			
 					<li><p align="justify">
                      Now you can use <a href="/paste/">GluPaste</a> to share your code and other written material. You can search the same using the paste# or the Author Name on <a href="/paste/">GluPaste</a> page.
 					</p></li>

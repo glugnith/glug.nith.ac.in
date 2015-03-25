@@ -16,9 +16,9 @@
 					<strong><a href="http://www.winehq.com/">&#187;&#187;Visit Wine HQ</a></strong>
 				</div>
 			</div>
-		
+
 	<br /><br />
-		
+
 		<!--	<div class="content_style1">
 				<div class="content_style1_heading">
 					<h3>GluCki</h3>
@@ -28,7 +28,7 @@
 					<p>Being a wiki, it allows users complete freedom to edit the contents of the site and make their own contributions. All the contents of GluCki are written indigeniously by the members of GLUG NITH, and are mainly intended to address the needs of the NIT Hamirpur fraternity.</p><br />			
 					<strong><a href="http://202.141.130.198/wiki">&#187;&#187;Visit GluCki</a></strong>
 				</div>
-                
+
 			</div>-->
 		</div>
 	</div>

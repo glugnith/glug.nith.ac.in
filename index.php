@@ -9,6 +9,7 @@
 	
 			<div class="content_style1">
 				<div class="content_style1_heading">
+ 					<a href="http://www.softwarefreedomday.org/"><img src="http://www.softwarefreedomday.org/countdown/banner1-UTC+5.30-en.png" border="0" width="160" height="90" alt="Celebrate SFD with us on September 19!"></a> 					
 					<h3>What is GNU?</h3>
 				</div>
 				<div class="content_style1_info">

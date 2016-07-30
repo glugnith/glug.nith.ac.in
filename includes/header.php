@@ -80,10 +80,11 @@
 			<div id="navbar">
 				<ul>
 				<a href="/index.php"><div class="navbar_background_hover"><li>Home</li></div></a>
-				|<a href="/paste"><div class="navbar_background_hover"><li>GluPaste</li></div></a>
+				|<a href="/paste"><div class="navbar_background_hover"><li>gluPaste</li></div></a>
+				|<a href="/blog/"><div class="navbar_background_hover"><li>gluBlog</li></div></a>
+				|<a href="/owncloud"><div class="navbar_background_hover"><li>gluCloud</li></div></a>
 				|<a href="/wiki"><div class="navbar_background_hover"><li>Wiki</li></div></a>
-				<!--|<a href="/downloads.php"><div class="navbar_background_hover"><li>Downloads</li></div></a>-->
-				|<a href="/blog/"><div class="navbar_background_hover"><li>Blog</li></div></a>
+				<!--|<a href="/downloads.php"><div class="navbar_backgroungd_hover"><li>Downloads</li></div></a>-->
 				</ul>
 			</div>
 			<div class="float_clear">

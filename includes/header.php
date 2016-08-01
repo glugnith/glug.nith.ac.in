@@ -80,7 +80,7 @@
 			<div id="navbar">
 				<ul>
 				<a href="/index.php"><div class="navbar_background_hover"><li>Home</li></div></a>
-				|<a href="/paste"><div class="navbar_background_hover"><li>gluPaste</li></div></a>
+				|<a href="#" onclick="paste();"><div class="navbar_background_hover"><li>gluPaste</li></div></a>
 				|<a href="/blog/"><div class="navbar_background_hover"><li>gluBlog</li></div></a>
 				|<a href="/owncloud"><div class="navbar_background_hover"><li>gluCloud</li></div></a>
 				|<a href="/wiki"><div class="navbar_background_hover"><li>Wiki</li></div></a>
@@ -90,7 +90,11 @@
 			<div class="float_clear">
 			</div>
 		</div>
-	</div>	
+	</div>
 </div>
 
-	
+<script type="text/javascript">
+    function paste () {
+         location.assign("http://glug.nith.ac.in:5000");
+    }
+</script>

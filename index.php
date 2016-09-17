@@ -41,7 +41,7 @@
             <!--about -->
 			<div class="content_style2">
 				<div class="content_style2_heading">
-					<h3>Welcome to GNU/Linux User Group NIT Hamirpur</h3>
+					<h3>Welcome to the GNU/Linux User Group NIT Hamirpur</h3>
 				</div>
 				<div class="content_style2_info">
 					<p>GLUG NITH is a moniker for the GNU/Linux User Group of National Institute of Technology, Hamirpur.<br /><br />

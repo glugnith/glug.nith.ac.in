@@ -12,7 +12,7 @@
 					<h3>What is GNU?</h3>
 				</div>
 				<div class="content_style1_info">
-					<strong>In the words of Richard M. Stallman, the founder of the GNU Project:</strong><br /><br />
+					<strong>Inspiring Words by Richard M. Stallman, the founder of the GNU Project:</strong><br /><br />
 					<p>"GNU, which stands for Gnu's Not Unix, is the name for the complete Unix-compatible software system which I am writing so that I can give it away free to everyone who can use it. Several other volunteers are helping me. Contributions of time, money, programs and equipment are greatly needed."</p><br />
 					<strong><a href="http://www.gnu.org/gnu/manifesto.html">&#187;&#187;Read GNU Manifesto</a></strong>
 				</div>

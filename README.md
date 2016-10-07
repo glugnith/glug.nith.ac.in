@@ -1,3 +1,5 @@
+**Note**: This source code is of GLUG's old website. GLUG-NITH website has been newly built and the source code is available at [Nithmr/glugWebsite](https://github.com/Nithmr/glugWebsite). Please make all your further contribution there.
+
 # GLUG-NITH Website Source Code
 Almost all of the GLUG-NITH [website][1] is available here. The main aim of making the source code available to all via git is to promote the use of git among students especially among students in [NITH][3]
 

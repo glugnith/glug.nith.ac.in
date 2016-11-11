@@ -93,7 +93,7 @@
                                      This way you can very elegantly contribute to glug website source code. 
                                      </p><br/>
                     
-                   <h2>Starting using it</h2>
+                   <h2>Start using it</h2>
                       <div class="line1"></div>
                       <p>
 By this time, you might be wondering how to accomplish this whole thing. For that you need to be aware of this tool git. There are several references on the internet that can help you in getting familiar with git and start hacking. Since the website source code is hosted on <a href=http://github.com>Github</a> and they provide a very good guide to start learning and using git, best place to start using git is their <a href=https://help.github.com/articles/set-up-git>BootCamp</a>. This will help you in learning git from scratch and at the same time getting familiar with Github interface.

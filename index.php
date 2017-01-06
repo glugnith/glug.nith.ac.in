@@ -84,36 +84,29 @@
 		
 	<div id="main_info_right">
 		<div id="main_info_right_in">
-			<?php 
-				include_once "includes/main_info_right.php";
-			?>
-<br/>
-
-<!--		<div class="content_style1_cont">
+			<!--The below ten lines of code should not be removed and is only used only when our servers are down -->
+										<!--Notice Box Code Starts -->
+			<div class="content_style1_cont">
 				<div class="content_style1">
 					<div class="content_style1_heading">
 						<h3>Notice</h3>
 					</div>
 					<div class="content_style1_info">
 						GLUG-NITH Mirror servers are experiencing some technical problems and you can face difficulty in downloading ISO's and updates from the server for next few days. <br/><br/>Inconvenience  caused is regretted.
-
-                        
-                        </div>  
+					</div>  
 				</div>
-			</div>  
-
-
-
--->
+		</div><br/>
+										<!--Notice Box Code Ends -->	
+			<?php 
+				include_once "includes/main_info_right.php";
+			?>
+<br/>
+					
+			
 		</div>
 	</div>
 	
 	<div class="float_clear">
-
-
-
-
-
 
 	</div>
 

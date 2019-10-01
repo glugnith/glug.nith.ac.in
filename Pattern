@@ -1,0 +1,6 @@
+//this is a python code for displaying a simple pattern
+for i in range(n):
+    for j in range(5):
+        print("*",en='')
+     print()
+     
